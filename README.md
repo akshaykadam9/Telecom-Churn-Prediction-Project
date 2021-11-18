@@ -1,1 +1,1 @@
-# Telecom-Churn-Prediction-Project
+The project involved drawing inferences from 3 case studies, namely – Churn Data, Customer Data, and Internet Data. The concept Logistic Regression and Exploratory Data Analysis are used to draw inferences from these case studies. Various performance metrics have been used to validate the performance of predictions on Test & Train sets.
